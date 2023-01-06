@@ -10,14 +10,12 @@ cargo run -r
 
 ### Visulisations
 
-<div style="width:60px ; height:60px">
 ![ia](example_img/img_1.png)
 ![ib](example_img/img_2.png)
 ![ic](example_img/img_3.png)
 ![id](example_img/img_4.png)
 ![ie](example_img/img_5.png)
 ![if](example_img/img_6.png)
-<div>
 
 ### Inspiration and Further Reading
 
