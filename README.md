@@ -10,13 +10,12 @@ cargo run -r
 
 ### Visulisations
 
-![ia](example_img/img_1.png)
-![ib](example_img/img_2.png)
-![ic](example_img/img_3.png)
-![id](example_img/img_4.png)
-![ie](example_img/img_5.png)
-![if](example_img/img_6.png)
-![ig](example_img/img_7.png)
+![ia](example_img/img_1.png =550x350)
+![ib](example_img/img_2.png =550x350)
+![ic](example_img/img_3.png =550x350)
+![id](example_img/img_4.png =550x350)
+![ie](example_img/img_5.png =550x350)
+![if](example_img/img_6.png =550x350)
 
 ### Inspiration and Further Reading
 
