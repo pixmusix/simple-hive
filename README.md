@@ -8,14 +8,9 @@ cargo build --release
 cargo run -r
 ```
 
-### Visulisations
+### Visulisation
 
-![ia](example_img/img_1.png)
-![ib](example_img/img_2.png)
-![ic](example_img/img_3.png)
-![id](example_img/img_4.png)
-![ie](example_img/img_5.png)
-![if](example_img/img_6.png)
+![ia](example_img/gif_1.gif)
 
 ### Inspiration and Further Reading
 
