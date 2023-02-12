@@ -10,7 +10,11 @@ cargo run -r
 
 ### Visulisation
 
-![ia](example_img/gif_1.gif)
+
+https://user-images.githubusercontent.com/68670157/218295502-1a5bd04e-0b8e-4a85-8a2a-5ffa7b61c9e2.mp4
+
+![imc](example_img/img_3.png)
+![imd](example_img/img_4.png)
 
 ### Inspiration and Further Reading
 
